@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🇳🇵 Nepali IDE — Code IDE
+# 🇳🇵 Nepali IDE — Code IDE 
+## A creation From Nepal
 
 ### An AI-Native Mobile IDE & Code Editor Built with Kotlin & Jetpack Compose
 
